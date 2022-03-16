@@ -1,0 +1,21 @@
+.container {
+  height: 90rem;
+  margin: 0 5rem;
+}
+
+.first__row {
+  height: 35%;
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid green;
+}
+
+.second__row {
+  height: 20%;
+  border: 2px solid red;
+}
+
+.third__row {
+  height: 35%;
+  border: 2px solid yellow;
+}
